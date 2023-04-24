@@ -1,0 +1,31 @@
+RNNs
+
+time series analysis
+
+predict based on prev data
+
+sequential information
+
+predict just not on current or one input, based on data and trend
+
+RNN ~ memory capture information
+
+same Networks
+
+inout diff times
+
+prev hidden state
+
+multi-dimension neurons as one neuron
+
+copy the same Networks for the number of timesteps
+
+hidden units
+
+timestep
+
+diff inputs at diff times
+
+activation functions
+    Sigmoid
+    
