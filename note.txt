@@ -29,3 +29,4 @@ diff inputs at diff times
 activation functions
     Sigmoid
     
+No work shitty day
